@@ -38,7 +38,7 @@ blog-project/<br>
 
 ## Contributors
 
-- Yash Khalkar (@khalkaryash)
+- Yash Khalkar [@khalkaryash](https://github.com/KhalkarYash)
 
 ## License
 
