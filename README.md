@@ -28,13 +28,13 @@ To run this project locally, follow these steps:
 
 ## Project Structure
 
-blog-project/
-│
-├── index.html # HTML file for the main blog page
-├── style.css # CSS file for styling
-├── script.js # JavaScript file for handling blog functionality
-│
-└── README.md # Documentation for the project
+blog-project/<br>
+│<br>
+├── index.html # HTML file for the main blog page<br>
+├── style.css # CSS file for styling<br>
+├── script.js # JavaScript file for handling blog functionality<br>
+│<br>
+└── README.md # Documentation for the project<br>
 
 ## Contributors
 
